@@ -11,7 +11,7 @@ module.exports = {
     tokenExpiry: 361440, // In seconds(equal to 1 day)
     rootUrl: 'http://localhost:9000',
 
-    defaultEmailId: 'meanstack2017@gmail.com',
+    defaultEmailId: '',
 
     tokenExpirationTime: 540, // minutes
     forgotTokenExpireTime: 60, // minutes
